@@ -17,6 +17,8 @@ pylint = "*"
 moto = "*"
 twisted = "*"
 coverage = "*"
+matplotlib = "*"
+memory-profiler = "*"
 
 [requires]
 python_version = "3.9"
