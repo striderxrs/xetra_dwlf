@@ -10,6 +10,11 @@ jupyter = "*"
 boto3 = "*"
 pyarrow = "*"
 nbdime = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+twisted = "*"
+coverage = "*"
 
 [dev-packages]
 
